@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Norouzi</string>
+    <string name="action_settings">About</string>
+    <string name="name">Apple iPhone 5s</string>
+    <string name="activity_two">Activity Two</string>
+    <string name="add_to_cart">AddToCart</string>
+    <string name="AboutPhone">
+        SIM : Nano-SIM /
+        Size : 4.0 inches /
+        Resolution : 640 x 1136 pixels /
+        CPU : Dual-core 1.3 GHz Cyclone /
+        Internal Memory : 16/32/64 GB, 1GB RAM DDR3 /
+        OS : iOS7, Upgradable to iOS 8.4 /
+        Primary Camera : 8 MP, 3264 x 2448 pixels, autofocus, dual-LED flash /
+        Video : 1080p@30fps, 720p@120fps /
+        Bluetooth : v4.0, A2DP /
+        WLAN : Wi-Fi 802.11 a/b/g/n, dual-band, hotspot /
+        USB : v2.0, reversible connector /
+        Multi touch : Yes /
+        Radio : No
+    </string>
+    <string name="h">
+        SIM : Nano-SIM /
+        Size : 5.0 inches /
+        Resolution : 1080 x 1920 pixels /
+        CPU : Quad-core 1 GHz Cortex-A53, Quad-core 1.7 GHz Cortex-A57 /
+        Internal Memory : 16/32 GB, 2GB RAM /
+        OS : Android OS, v5.0(Lollipop) /
+        Primary Camera : 13 MP + 2 MP, 4128 x 3096 pixels, autofocus, dual-LED flash /
+        Video : 1080p@60fps, 720p@120fps, HDR, stereo sound rec. /
+        Bluetooth : v4.1, A2DP, apt-X /
+        WLAN : Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA, hotspot /
+        USB : microUSB v2.0(MHL TV-out), USB Host /
+        Multi touch : Yes /
+        Radio : Stereo FM radio with RDS
+    </string>
+    <string name="s">
+        SIM : Micro-SIM /
+        Size : 5.0 inches /
+        Resolution : 1080 x 1920 pixels /
+        CPU : Quad-core 2.3 GHz Krait 400 /
+        Internal Memory : 16 GB, 3GB RAM /
+        OS : Android OS, v4.4.2(KitKat) /
+        Primary Camera : 20.7 MP, 5248 x 3936 pixels, autofocus, LED flash /
+        Video : 2160p@30fps, 1080p@60fps, 720p@120fps, HDR /
+        Bluetooth : v4.0, A2DP, apt-X /
+        WLAN : Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA, hotspot /
+        USB : microUSB v2.0(MHL 3 TV-out), USB Host /
+        Multi touch : Yes, up to 10 fingers /
+        Radio : FM radio with RDS
+    </string>
+
+
+</resources>
